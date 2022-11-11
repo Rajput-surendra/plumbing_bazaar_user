@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727213900704",
+    "project_id": "plumbing-bazzar",
+    "storage_bucket": "plumbing-bazzar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727213900704:android:fe9244a40c6e68bfcf9ac5",
+        "android_client_info": {
+          "package_name": "com.plumbingbazzar.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727213900704-4egqkc7ebvu0feb4iftcmc7o79pfl5lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plumbingbazzar.user",
+            "certificate_hash": "6d67320b31328589559f88b2b345e31a26f5fd8c"
+          }
+        },
+        {
+          "client_id": "727213900704-it0f98add9bjg8i24q6c29ejbva3e6l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4DSVFowk2wIi5xNqQAgxgG4ZmIaE61aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727213900704-it0f98add9bjg8i24q6c29ejbva3e6l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
